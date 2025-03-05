@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou o Guilherme Noronha 👋
 
-<!--
-**guinoronha-dev/guinoronha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Tenho 25 anos, estou em transição da Força Aérea para a **tecnologia** e focado no **desenvolvimento front-end**. Minha meta é me tornar um **Desenvolvedor Full Stack** e aprimorar minhas habilidades em **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos 🚀
+
+- 🌱 **Transição de Carreira**: Deixando a Força Aérea para me dedicar ao mundo do desenvolvimento.
+- 🎯 **Especialização**: Meu objetivo é me tornar um **Desenvolvedor Full Stack**, capaz de criar soluções completas e inovadoras.
+- 💡 **Tecnologia**: Aperfeiçoando minhas habilidades em **JavaScript**.
+- 🌍 **Idiomas**: Estou focado em ficar fluente em **inglês** e começar a aprender **alemão**.
+
+## Lendo Atualmente 📚
+
+- "You Don't Know JS Yet: Get Started" - Kyle Simpson  
+
+## Habilidades 🛠️
+
+- **Linguagens de Programação:** HTML, CSS, JavaScript
+- **Frameworks e Bibliotecas:** Em progresso...
+- **Banco de Dados:** Em progresso...
+- **Ferramentas e Tecnologias:** Git, GitHub
+
+Obrigado por visitar meu perfil! Vamos juntos aprender e crescer no mundo da tecnologia! 🚀
