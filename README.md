@@ -18,7 +18,7 @@ Tenho 25 anos, estou em transição da Força Aérea para a **tecnologia** e foc
 ## Habilidades 🛠️
 
 - **Linguagens de Programação:** HTML, CSS, JavaScript
-- **Frameworks e Bibliotecas:** Em progresso...
+- **Frameworks e Bibliotecas:** Angular, React.js
 - **Banco de Dados:** Em progresso...
 - **Ferramentas e Tecnologias:** Git, GitHub
 
