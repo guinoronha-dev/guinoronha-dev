@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Tenho 25 anos, minha meta é me tornar um **Desenvolvedor Full Stack**.
+Tenho 26 anos, minha meta é me tornar um **Desenvolvedor Full Stack**.
 
 ## Objetivos 🚀
 
