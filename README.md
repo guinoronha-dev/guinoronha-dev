@@ -1,24 +1,26 @@
-# Olá, sou o Guilherme Noronha 👋
+# Hi, I'm Guilherme Noronha 👋
 
-## Sobre Mim
+I'm a Full Stack Software Developer focused on building business-oriented applications with TypeScript.
 
-Tenho 26 anos, minha meta é me tornar um **Desenvolvedor Full Stack**.
+I enjoy working across the stack, from designing application architecture and business logic to building user interfaces and data persistence.
 
-## Objetivos 🚀
+### 🛠 Tech Stack
 
-- 🎯 **Especialização**: Meu objetivo é me tornar um **Desenvolvedor Full Stack**, capaz de criar soluções completas e inovadoras.
-- 💡 **Tecnologia**: Aperfeiçoando minhas habilidades em **React**.
-- 🌍 **Idiomas**: Atualmente estudando **alemão**.
+- **Languages:** TypeScript, JavaScript, SQL
+- **Frontend:** React, Next.js, React Native, Expo
+- **Styling:** Tailwind CSS, NativeWind
+- **Backend:** Node.js, NestJS
+- **Databases:** PostgreSQL, SQLite
+- **ORM & Data Access:** Prisma
+- **Caching & Background Jobs:** Redis, Bull
+- **Email:** SMTP, Transactional Email
+- **Architecture:** Clean Architecture, SOLID, Repository Pattern, Dependency Injection
+- **Testing:** Jest, React Native Testing Library
 
-## Lendo Atualmente 📚
+### 🚀 Current Projects
 
-- "You Don't Know JS Yet: Get Started" - Kyle Simpson  
+#### TrackFlow
 
-## Habilidades 🛠️
+An offline-first B2B Field Service Management platform focused on work orders, field evidence, asset tracking and operational workflows.
 
-- **Linguagens de Programação:** HTML, CSS, JavaScript
-- **Frameworks e Bibliotecas:** Angular, React.js
-- **Banco de Dados:** Em progresso...
-- **Ferramentas e Tecnologias:** Git, GitHub
-
-Obrigado por visitar meu perfil! Vamos juntos aprender e crescer no mundo da tecnologia! 🚀
+The project is being built with React Native, Expo, TypeScript, SQLite and Supabase, with a focus on local persistence, offline workflows and synchronization.
